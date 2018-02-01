@@ -1,0 +1,29 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+}
+
+hr {
+	height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+.text-thin{
+	font-weight: 200;
+}
+
+.text-light{
+	color: #7d97ad;
+}
+
+.title-super{
+	font-size: 60px;
+}
+
+.title-logo{
+	margin-top: 30px;
+	box-sizing: border-box;
+	width: 300px;
+}
